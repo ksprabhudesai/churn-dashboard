@@ -10,9 +10,9 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="Marvellous Infosystems Dashboard", page_icon="📊")
 
 st.title("📊 Customer Dashboard")
-st.caption("Customer churn Predictions")
+st.caption("by Kavita Phadnis")
 
-st.write("Machine Learning Application Dashboard")
+st.write("Customer churn Predictions")
 
 python_image = Image.open('python.png')
 
